@@ -1,4 +1,4 @@
-# **Natural-Language-Process-Project : ** 
+# **Natural-Language-Process-Project** 
 
 ## Word Association and Mutual Information. These are features provided in this files..
 * ### **Encoding Character Detsets Checking**
