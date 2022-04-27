@@ -1,6 +1,6 @@
-# **Natural-Language-Process-Project : ** Word Association and Mutual Information
+# **Natural-Language-Process-Project : ** 
 
-## These are features provided in this files..
+## Word Association and Mutual Information. These are features provided in this files..
 * ### **Encoding Character Detsets Checking**
 * ### **Reading the Dataset (Dataset-CalheirosMoroRita-2017.csv)**
 * ### **Cleaning Text Data (LowerText, Tokenize, UseLessWord-Remove, StopWord-Remove, PartOfSpeech, Lemmatize)**
